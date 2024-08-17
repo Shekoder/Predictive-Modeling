@@ -39,3 +39,9 @@ Welcome to Level 3 of the Restaurant Data Analysis project! In this phase, we di
 
    ```bash
    git clone https://github.com/Shekoder/restaurant-data-analysis.git
+2. Navigate to the Project Directory
+`cd restaurant-data-analysis`
+3. Install Dependencies
+`pip install -r requirements.txt`
+
+Feel free to adjust the repository URL, filenames, and any other details to fit your project specifics.
